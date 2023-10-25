@@ -1,0 +1,1 @@
+/usr/bin/gcc-12 -O3 -DNDEBUG -rdynamic CMakeFiles/csv_reader_project_v1.dir/main.c.o CMakeFiles/csv_reader_project_v1.dir/functions.c.o -o csv_reader_project_v1 

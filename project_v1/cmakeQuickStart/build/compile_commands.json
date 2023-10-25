@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/build",
+  "command": "/usr/bin/gcc-12   -O3 -DNDEBUG -o CMakeFiles/csv_reader_project_v1.dir/main.c.o -c /home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/main.c",
+  "file": "/home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/main.c",
+  "output": "CMakeFiles/csv_reader_project_v1.dir/main.c.o"
+},
+{
+  "directory": "/home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/build",
+  "command": "/usr/bin/gcc-12   -O3 -DNDEBUG -o CMakeFiles/csv_reader_project_v1.dir/functions.c.o -c /home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/functions.c",
+  "file": "/home/dek0n/projects/private/metropolia/c-lang/project_v1/cmakeQuickStart/functions.c",
+  "output": "CMakeFiles/csv_reader_project_v1.dir/functions.c.o"
+}
+]
